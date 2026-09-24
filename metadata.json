@@ -1,0 +1,6 @@
+{
+  "name": "ꯂꯥꯏꯔꯤꯛ",
+  "description": "Native document scanner and reader for internal storage (PDF, PPT/PPTX, EPUB, DOC/DOCX, TXT) with bookmarks and reading progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
